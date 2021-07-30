@@ -1,0 +1,13 @@
+/home/matheus/Documentos/Workspace/Studies/C#/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern
+/home/matheus/Documentos/Workspace/Studies/C#/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.deps.json
+/home/matheus/Documentos/Workspace/Studies/C#/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.runtimeconfig.json
+/home/matheus/Documentos/Workspace/Studies/C#/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.runtimeconfig.dev.json
+/home/matheus/Documentos/Workspace/Studies/C#/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.dll
+/home/matheus/Documentos/Workspace/Studies/C#/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.pdb
+/home/matheus/Documentos/Workspace/Studies/C#/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.csprojAssemblyReference.cache
+/home/matheus/Documentos/Workspace/Studies/C#/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.AssemblyInfoInputs.cache
+/home/matheus/Documentos/Workspace/Studies/C#/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.AssemblyInfo.cs
+/home/matheus/Documentos/Workspace/Studies/C#/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.csproj.CoreCompileInputs.cache
+/home/matheus/Documentos/Workspace/Studies/C#/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.dll
+/home/matheus/Documentos/Workspace/Studies/C#/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.pdb
+/home/matheus/Documentos/Workspace/Studies/C#/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.genruntimeconfig.cache
